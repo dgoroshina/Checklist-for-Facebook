@@ -1,7 +1,10 @@
 Valid inputs for name & surname (no special characters, no numbers)
+Name and surname with special characters
 Min/max length for name, surname, mail/phone, password
 All fields left empty/any field left empty
 Double names (e.g.: Ann-Mary)
 Email without domain address
 Special characters for password
 Email/phone post-registration confirmation
+Birth date below/beneath age 18
+After pressing "Tab" the focus shifts to the following text box
