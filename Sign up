@@ -1,0 +1,7 @@
+Valid inputs for name & surname (no special characters, no numbers)
+Min/max length for name, surname, mail/phone, password
+All fields left empty/any field left empty
+Double names (e.g.: Ann-Mary)
+Email without domain address
+Special characters for password
+Email/phone post-registration confirmation
