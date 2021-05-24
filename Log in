@@ -1,0 +1,14 @@
+Valid format of mail address/phone number 
+No inputs for mail/phone text box
+Min/max length for mail/phone number text box
+Min/max length for password
+Hide/show password button check
+Log in with mail/phone number only (password text box left empty)
+Log in with password only (mail/phone number text box left empty)
+Spaces in mail/phone number text box; in password text box
+Uppercase for mail address
+Secondary log in attempt (autofilling)
+Special symbols for mail/phone number text box
+Log in to the other browser using same account
+Max attempts for incorrect password data
+Check for "remember me on this computer"
